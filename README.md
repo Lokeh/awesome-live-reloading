@@ -14,6 +14,7 @@ A curated collection of `live-reloading` tools and libraries associated with dif
 
 ## Clojurescript
   - [**Figwheel**](https://github.com/bhauman/lein-figwheel)
+  - [**Shadow-CLJS**](http://shadow-cljs.org/)
 
 ## Dart
 
